@@ -1,0 +1,34 @@
+sudo: false
+language: python
+python: 3.6
+cache: pip
+
+before_install:
+  - openssl aes-256-cbc -K $encrypted_32616b5be4e5_key -iv $encrypted_32616b5be4e5_iv
+    -in client-secret.json.enc -out client-secret.json -d
+
+install:
+  - pip install -U pip
+  - pip install sigal
+
+script:
+  - sigal build
+
+deploy:
+  - provider: gae
+    skip_cleanup: true
+    keyfile: client-secret.json
+    project: infinitymaze-1185
+    default: true
+    version: production
+    on:
+      branch: master
+  - provider: gae
+    skip_cleanup: true
+    keyfile: client-secret.json
+    project: infinitymaze-1185
+    default: false
+    no_promote: true
+    version: ci-test
+    on:
+      all_branches: true
