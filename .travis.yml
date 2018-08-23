@@ -19,6 +19,14 @@ deploy:
     skip_cleanup: true
     keyfile: client-secret.json
     project: infinitymaze-1185
+    default: true
+    version: production
+    on:
+      branch: master
+  - provider: gae
+    skip_cleanup: true
+    keyfile: client-secret.json
+    project: infinitymaze-1185
     default: false
     no_promote: true
     version: ci-test
