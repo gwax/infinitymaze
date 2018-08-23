@@ -8,6 +8,7 @@ before_install:
     -in client-secret.json.enc -out client-secret.json -d
 
 install:
+  - pip install -U pip
   - pip install sigal
 
 script:
