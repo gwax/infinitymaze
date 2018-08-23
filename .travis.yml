@@ -1,0 +1,21 @@
+sudo: false
+language: python
+python: 3.6
+cache: pip
+
+install:
+  - pip install sigal
+
+script:
+  - sigal build
+
+deploy:
+  - provider: gae
+    skip_cleanup: true
+    keyfile: client-secret.json
+    project: infinitymaze-1185
+    default: false
+    no_promote: true
+    version: ci-test
+    on:
+      all_branches: true
