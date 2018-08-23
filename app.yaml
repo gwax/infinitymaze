@@ -9,36 +9,43 @@ handlers:
   mime_type: text/css; charset=UTF-8
   static_files: _build/\1
   upload: _build/(.*\.css)
+  secure: always
 
 - url: /(.*\.html)
   mime_type: text/html; charset=UTF-8
   static_files: _build/\1
   upload: _build/(.*\.html)
   expiration: "1h"
+  secure: always
 
 - url: /(.*\.js$)
   mime_type: text/javascript
   static_files: _build/\1
   upload: _build/(.*\.js$)
+  secure: always
 
 # image files
 - url: /(.*\.(bmp|gif|ico|jpeg|jpg|png))
   static_files: _build/\1
   upload: _build/(.*\.(bmp|gif|ico|jpeg|jpg|png))
+  secure: always
 
 # index files
 - url: /(.+)/
   static_files: _build/\1/index.html
   upload: _build/(.+)/index.html
   expiration: "15m"
+  secure: always
 
 - url: /(.+)
   static_files: _build/\1/index.html
   upload: _build/(.+)/index.html
   expiration: "15m"
+  secure: always
 
 # site root
 - url: /
   static_files: _build/index.html
   upload: _build/index.html
   expiration: "15m"
+  secure: always
