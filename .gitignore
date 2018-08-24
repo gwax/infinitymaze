@@ -1,3 +1,17 @@
-_build/
-.DS_Store
+# generated content
+output/
+
+# Nikola caching
+.doit.db
+.doit.db.db
+cache/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Environment specific files
 .python-version
+
+# OSX Attributes
+.DS_Store

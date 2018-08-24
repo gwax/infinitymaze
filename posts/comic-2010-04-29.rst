@@ -1,0 +1,11 @@
+2010-04-29
+==========
+
+:slug: comic-2010-04-29
+:date: 2010-04-29 12:00:00+00:00
+:tags: infinity maze
+:category: comic
+
+.. image:: /images/comics/2010-04-29.jpg
+    :alt: comic-2010-04-29
+    :class: comic

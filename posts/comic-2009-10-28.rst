@@ -1,0 +1,11 @@
+2009-10-28
+==========
+
+:slug: comic-2009-10-28
+:date: 2009-10-28 12:00:00+00:00
+:tags: infinity maze
+:category: comic
+
+.. image:: /images/comics/2009-10-28.jpg
+    :alt: comic-2009-10-28
+    :class: comic
