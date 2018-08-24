@@ -64,9 +64,9 @@ def asset_handler(extension, mime):
         ('upload', f'{OUTPUT_DIRECTORY}' + url),
         ('mime_type', mime),
         ('secure', 'always'),
-    ] + ([] if extension != 'html' else [
-        ('expiration', '1h'),
     ])
+    if extension == 'html':
+        handler['expiration'] = '1h'
     if HEADER_VALUES:
         handler['http_headers'] = collections.OrderedDict(HEADER_VALUES)
     return handler
