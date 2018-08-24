@@ -1309,7 +1309,7 @@ USE_BUNDLES = False
 
 # Special settings to disable only parts of the indexes plugin.
 # Use with care.
-DISABLE_INDEXES = True
+# DISABLE_INDEXES = False
 # DISABLE_MAIN_ATOM_FEED = False
 # DISABLE_MAIN_RSS_FEED = False
 
