@@ -12,8 +12,6 @@ POST_TEMPLATE = """\
 
 :slug: {slug}
 :date: {date}
-:tags: infinity maze
-:category: comic
 
 .. image:: /comics/{image_file}
     :alt: {slug}

@@ -137,7 +137,6 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
         ("/rss.xml", "RSS feed"),
     ),
 }
@@ -1310,7 +1309,7 @@ USE_BUNDLES = False
 
 # Special settings to disable only parts of the indexes plugin.
 # Use with care.
-# DISABLE_INDEXES = False
+DISABLE_INDEXES = True
 # DISABLE_MAIN_ATOM_FEED = False
 # DISABLE_MAIN_RSS_FEED = False
 
