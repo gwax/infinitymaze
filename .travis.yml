@@ -28,6 +28,7 @@ before_script:
   - tidy --version
 
 script:
+  - "./scripts/build_app_yaml.py > app.yaml"
   - nikola build
 
 deploy:

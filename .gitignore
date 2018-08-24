@@ -1,5 +1,6 @@
 # generated content
 output/
+app.yaml
 
 # Nikola caching
 .doit.db
