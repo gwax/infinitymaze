@@ -14,7 +14,7 @@ yaml.add_representer(collections.OrderedDict, dict_representer)
 
 OUTPUT_DIRECTORY = 'output'
 HEADER_VALUES = [
-    ('X-Narwhal', 'A small arctic whale. The male has a long tusk.'),
+    # ('X-Narwhal', 'A small arctic whale. The male has a long tusk.'),
 ]
 
 EXTENSION_MIME = [
@@ -66,9 +66,9 @@ def asset_handler(extension, mime):
         ('secure', 'always'),
     ] + ([] if extension != 'html' else [
         ('expiration', '1h'),
-    ]) + [
-        ('http_headers', collections.OrderedDict(HEADER_VALUES)),
     ])
+    if HEADER_VALUES:
+        handler['http_headers'] = collections.OrderedDict(HEADER_VALUES)
     return handler
 
 
