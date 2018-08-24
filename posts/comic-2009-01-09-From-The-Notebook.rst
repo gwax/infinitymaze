@@ -6,6 +6,6 @@
 :tags: infinity maze
 :category: comic
 
-.. image:: /images/comics/2009-01-09-From-The-Notebook.jpg
+.. image:: /comics/2009-01-09-From-The-Notebook.jpg
     :alt: comic-2009-01-09-From-The-Notebook
     :class: comic

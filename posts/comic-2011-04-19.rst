@@ -6,6 +6,6 @@
 :tags: infinity maze
 :category: comic
 
-.. image:: /images/comics/2011-04-19.jpg
+.. image:: /comics/2011-04-19.jpg
     :alt: comic-2011-04-19
     :class: comic

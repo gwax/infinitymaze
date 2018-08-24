@@ -6,6 +6,6 @@
 :tags: infinity maze
 :category: comic
 
-.. image:: /images/comics/2010-04-13crows-in-clouds.jpg
+.. image:: /comics/2010-04-13crows-in-clouds.jpg
     :alt: comic-2010-04-13crows-in-clouds
     :class: comic

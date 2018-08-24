@@ -2,7 +2,7 @@ import datetime as dt
 import os
 import shutil
 
-COMIC_DIR = os.path.join('.', 'images', 'comics')
+COMIC_DIR = os.path.join('.', 'comics')
 IMAGE_FILES = os.listdir(COMIC_DIR)
 POSTS_PATH = os.path.join('.', 'posts')
 
@@ -15,7 +15,7 @@ POST_TEMPLATE = """\
 :tags: infinity maze
 :category: comic
 
-.. image:: /images/comics/{image_file}
+.. image:: /comics/{image_file}
     :alt: {slug}
     :class: comic
 """

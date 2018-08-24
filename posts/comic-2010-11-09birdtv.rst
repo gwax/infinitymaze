@@ -6,6 +6,6 @@
 :tags: infinity maze
 :category: comic
 
-.. image:: /images/comics/2010-11-09birdtv.jpg
+.. image:: /comics/2010-11-09birdtv.jpg
     :alt: comic-2010-11-09birdtv
     :class: comic

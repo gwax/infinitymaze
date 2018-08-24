@@ -6,6 +6,6 @@
 :tags: infinity maze
 :category: comic
 
-.. image:: /images/comics/2010-09-30-wolf-sticker.jpg
+.. image:: /comics/2010-09-30-wolf-sticker.jpg
     :alt: comic-2010-09-30-wolf-sticker
     :class: comic
