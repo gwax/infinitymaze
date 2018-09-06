@@ -7,3 +7,5 @@
 .. image:: /comics/2008-10-22.jpg
     :alt: comic-2008-10-22
     :class: comic
+
+sorry about the lateness of todays strip.

@@ -7,3 +7,5 @@
 .. image:: /comics/2008-10-31.jpg
     :alt: comic-2008-10-31
     :class: comic
+
+Happy Halloween everyone.

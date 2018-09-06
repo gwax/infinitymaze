@@ -7,3 +7,5 @@
 .. image:: /comics/2009-01-26.jpg
     :alt: comic-2009-01-26
     :class: comic
+
+Back to our regularly scheduled programming...

@@ -7,3 +7,5 @@
 .. image:: /comics/2009-01-05.jpg
     :alt: comic-2009-01-05
     :class: comic
+
+this one has a new color in it.

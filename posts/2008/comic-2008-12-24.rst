@@ -7,3 +7,5 @@
 .. image:: /comics/2008-12-24.jpg
     :alt: comic-2008-12-24
     :class: comic
+
+Happy Holidays Everyone.

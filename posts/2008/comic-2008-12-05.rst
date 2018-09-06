@@ -7,3 +7,5 @@
 .. image:: /comics/2008-12-05.jpg
     :alt: comic-2008-12-05
     :class: comic
+
+apparently shuffleboard is one word.
