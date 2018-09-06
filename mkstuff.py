@@ -12,6 +12,7 @@ POST_TEMPLATE = """\
 
 :slug: {slug}
 :date: {date}
+:tags: comics
 
 .. image:: /comics/{image_file}
     :alt: {slug}
@@ -27,7 +28,7 @@ for image_file in IMAGE_FILES:
     post_date = dt.datetime.strptime(post_base[:10], '%Y-%m-%d').date()
     post_datetime = dt.datetime.combine(
         post_date,
-        dt.time(12, 0),
+        dt.time(4, 0),
         tzinfo=dt.timezone.utc
     )
     post_slug = f'comic-{post_base}'
