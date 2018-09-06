@@ -32,9 +32,11 @@ for image_file in IMAGE_FILES:
     )
     post_slug = f'comic-{post_base}'
     post_filename = f'{post_slug}.rst'
-    post_file = os.path.join(POSTS_PATH, post_filename)
     post_title = post_base
     post_title_underline = '=' * len(post_title)
+    folder = os.path.join(POSTS_PATH, f'{post_date.year:04d}', f'{post_date.month:02d}')
+    os.makedirs(folder, exist_ok=True)
+    post_file = os.path.join(folder, post_filename)
     with open(post_file, 'wt') as target:
         target.write(POST_TEMPLATE.format(
             title=post_title,
