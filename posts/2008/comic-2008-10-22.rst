@@ -1,0 +1,11 @@
+2008-10-22
+==========
+
+:slug: comic-2008-10-22
+:date: 2008-10-22 19:00:00+00:00
+
+.. image:: /images/2008/2008-10-22.jpg
+    :alt: comic-2008-10-22
+    :class: comic
+
+sorry about the lateness of todays strip.

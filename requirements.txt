@@ -1,0 +1,2 @@
+nikola==8.0.0b3
+PyYAML==3.13
