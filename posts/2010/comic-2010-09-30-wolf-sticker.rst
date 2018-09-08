@@ -2,8 +2,7 @@
 =======================
 
 :slug: comic-2010-09-30-wolf-sticker
-:date: 2010-09-30 04:00:00+00:00
-:tags: comics
+:date: 2010-09-30 19:00:00+00:00
 
 .. image:: /comics/2010-09-30-wolf-sticker.jpg
     :alt: comic-2010-09-30-wolf-sticker
