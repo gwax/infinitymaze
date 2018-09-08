@@ -8,10 +8,10 @@ from nikola.plugin_categories import Task
 from nikola import utils
 
 
-class RenderLatest(pages.RenderPages):
+class LatestAsIndex(pages.RenderPages):
     """Horrible hack to render latest post as index.html."""
 
-    name = 'copy_latest'
+    name = 'latest_as_index'
 
     def gen_tasks(self):
         yield self.group_task()
