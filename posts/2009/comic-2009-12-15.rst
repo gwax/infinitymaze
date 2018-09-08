@@ -4,6 +4,6 @@
 :slug: comic-2009-12-15
 :date: 2009-12-15 19:00:00+00:00
 
-.. image:: /comics/2009-12-15.jpg
+.. image:: /images/2009/2009-12-15.jpg
     :alt: comic-2009-12-15
     :class: comic

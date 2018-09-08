@@ -4,6 +4,6 @@
 :slug: comic-2008-10-17
 :date: 2008-10-17 19:00:00+00:00
 
-.. image:: /comics/2008-10-17.jpg
+.. image:: /images/2008/2008-10-17.jpg
     :alt: comic-2008-10-17
     :class: comic

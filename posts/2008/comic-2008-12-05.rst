@@ -4,7 +4,7 @@
 :slug: comic-2008-12-05
 :date: 2008-12-05 19:00:00+00:00
 
-.. image:: /comics/2008-12-05.jpg
+.. image:: /images/2008/2008-12-05.jpg
     :alt: comic-2008-12-05
     :class: comic
 

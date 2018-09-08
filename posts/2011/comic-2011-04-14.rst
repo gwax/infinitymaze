@@ -4,6 +4,6 @@
 :slug: comic-2011-04-14
 :date: 2011-04-14 19:00:00+00:00
 
-.. image:: /comics/2011-04-14.jpg
+.. image:: /images/2011/2011-04-14.jpg
     :alt: comic-2011-04-14
     :class: comic

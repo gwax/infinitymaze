@@ -820,7 +820,6 @@ HTML_TIDY_EXECUTABLE = 'tidy'
 # but a different naming template can be configured with IMAGE_THUMBNAIL_FORMAT).
 
 IMAGE_FOLDERS = {
-    'comics': 'comics',
     'images': 'images',
 }
 # IMAGE_THUMBNAIL_SIZE = 400

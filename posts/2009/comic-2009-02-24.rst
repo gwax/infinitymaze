@@ -4,6 +4,6 @@
 :slug: comic-2009-02-24
 :date: 2009-02-24 19:00:00+00:00
 
-.. image:: /comics/2009-02-24.jpg
+.. image:: /images/2009/2009-02-24.jpg
     :alt: comic-2009-02-24
     :class: comic
