@@ -1,0 +1,12 @@
+[Core]
+Name = latest_as_index
+Module = latest_as_index
+
+[Documentation]
+Author = George Leslie-Waksman
+Version = 0.1.0
+Website = https://www.gwax.com
+Description = Render the latest post as index.html
+
+[Nikola]
+PluginCategory = Task
