@@ -1,5 +1,5 @@
 # generated content
-output/
+static/
 app.yaml
 
 # Nikola caching
@@ -16,3 +16,6 @@ __pycache__/
 
 # OSX Attributes
 .DS_Store
+
+# aspell backups
+*.bak
