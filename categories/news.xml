@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Infinity Maze (Posts about news)</title>
+    <link>https://infinitymaze.com/</link>
+    <description/>
+    <atom:link href="https://infinitymaze.com/categories/news.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <copyright>Contents © 2022 &lt;a href="mailto:mr.waksman@gmail.com"&gt;David Waksman&lt;/a&gt; </copyright>
+    <lastBuildDate>Fri, 06 May 2022 07:10:05 GMT</lastBuildDate>
+    <generator>Nikola (getnikola.com)</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title>sorry</title>
+      <link>https://infinitymaze.com/2009/sorry.html</link>
+      <dc:creator>David Waksman</dc:creator>
+      <description>&lt;p&gt;Sorry about missing this week guys, heres the comics I owe ya.&lt;/p&gt;</description>
+      <category>news</category>
+      <guid>https://infinitymaze.com/2009/sorry.html</guid>
+      <pubDate>Sun, 22 Feb 2009 00:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>work and life</title>
+      <link>https://infinitymaze.com/2009/work-and-life.html</link>
+      <dc:creator>David Waksman</dc:creator>
+      <description>&lt;p&gt;Work soon and then I've got a class to sit in on. Comic up later
+tonight. Scratch that, here it is.&lt;/p&gt;</description>
+      <category>news</category>
+      <guid>https://infinitymaze.com/2009/work-and-life.html</guid>
+      <pubDate>Wed, 11 Feb 2009 16:48:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>maybe</title>
+      <link>https://infinitymaze.com/2009/maybe.html</link>
+      <dc:creator>David Waksman</dc:creator>
+      <description>&lt;p&gt;There will be a comic up later tonight. Maybe you're reading this, maybe
+you care.&lt;/p&gt;</description>
+      <category>news</category>
+      <guid>https://infinitymaze.com/2009/maybe.html</guid>
+      <pubDate>Mon, 09 Feb 2009 21:09:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>well...</title>
+      <link>https://infinitymaze.com/2009/well.html</link>
+      <dc:creator>David Waksman</dc:creator>
+      <description>&lt;p&gt;So there's some personal things I need to get in order. I apologize to
+the handful of readers I have scattered across the globe. You guys are
+the reason I keep posting and I will have this show up and running very
+soon. Don't go anywhere. _Dave&lt;/p&gt;</description>
+      <category>news</category>
+      <guid>https://infinitymaze.com/2009/well.html</guid>
+      <pubDate>Sun, 18 Jan 2009 20:21:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://infinitymaze.com/2008/about.html</link>
+      <dc:creator>David Waksman</dc:creator>
+      <description>&lt;p&gt;A while back I wandered into the infinity maze. It's taken a long time
+but I think I'm almost out. A while back I wandered into the infinity
+maze. It's taken a long time but I think I'm almost out. A while back I
+wandered into the infinity maze. It's taken a long time but I think I'm
+almost out...&lt;/p&gt;</description>
+      <category>news</category>
+      <guid>https://infinitymaze.com/2008/about.html</guid>
+      <pubDate>Mon, 22 Sep 2008 19:22:29 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

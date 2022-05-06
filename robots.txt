@@ -1,0 +1,4 @@
+Sitemap: https://infinitymaze.com/sitemapindex.xml
+
+User-Agent: *
+Host: infinitymaze.com
