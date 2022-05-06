@@ -1,0 +1,7 @@
+-c requirements.txt
+
+nikola[extras]
+pip
+pip-tools
+setuptools
+wheel
