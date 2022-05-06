@@ -1,0 +1,15 @@
+name: Build Site and push to GitHub Pages
+on:
+  push:
+
+jobs:
+  nikola_build:
+    runs-on: ubuntu-latest
+    name: "Deploy Site to GitHub Pages"
+    steps:
+      - name: Check out
+        uses: actions/checkout@v3
+      - name: Build and Deploy Nikola
+        uses: gwax/nikola-action@gwax/master
+        with:
+          dry_run: ${{ github.ref != 'refs/heads/trunk' }}
